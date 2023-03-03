@@ -1,0 +1,2247 @@
+fileFormatVersion: 2
+guid: fe4150654d34cf542b192a9dd1980552
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1596dea8129840b92c499fbaf7cb4
+      internalID: -510215562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1872
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f7e37fdc9acdf4aabb21297b04ca8a
+      internalID: -863838482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1872
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c515e550d76a6f4c925c034a4dcd7d6
+      internalID: 1555488381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1872
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a58f4cbf1f9fd4f8f6d9c48148d092
+      internalID: 482984831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1872
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9492a50a75b8d4c813c0a3d2dc448a
+      internalID: 795029919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1872
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c667b79db30084b8eabc96d98571e7
+      internalID: 2079421221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1872
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0419770a5823dc94bb050cee6f3a59f3
+      internalID: 1973037828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea20feb6b21b940bdf1bffea65b253
+      internalID: -1806283794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949496b1d047934bb8a9eba5e1ddaf4
+      internalID: 868158781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1728
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370b64caa54426042ba166aaacd01ecd
+      internalID: 1678763413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1728
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e135fec19fb95458f254960f1d0d5a
+      internalID: 1854604364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1728
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d8b88293e6e204294cad874b97de4e
+      internalID: -156178564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1728
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06badda201e18c40877bcb092bff8c1
+      internalID: -1271590592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1728
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895876315131bc040a9986db6e67b161
+      internalID: -515104333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7ca625e23b5bc46821072f80c0b60e
+      internalID: 228920364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54f891cbd2a90447a0244d1a01cdbcb
+      internalID: -2128982083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2aaceecbe223b4ea7719c7d4661334
+      internalID: -788671687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634cf6926d02a7745bbd083817a57561
+      internalID: -1512785624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a820e6ac6ae67428bc66075d027c63
+      internalID: 1636701509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e54e6cfb610d448ad506908d7283de
+      internalID: -865470538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7437ca21ef181f747b1af2e035daa1b6
+      internalID: -1753527347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be1720cd5f0964fa8320496a4f9933
+      internalID: -1915921785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195885b356c685d44b99b209b2fa1667
+      internalID: -751816745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c008d1a592ab64fb38009cd24a5ee0
+      internalID: -87908528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d74792a6bf9eff4f8afeff25fb46817
+      internalID: -1621286033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b174893c27db5f47a9090882b58deb3
+      internalID: 1946924721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13e204883dcb414b93206f8b4b4622a
+      internalID: 478588779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3510cdb27d6cf714bb2cc18401a04b78
+      internalID: -61198321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0339d6e49ffb7459a991021457b1e7
+      internalID: -892492841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17823a2a33c73d3488ca218e26592f14
+      internalID: -721380028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532cae920524134abae0fc583e0ae1d
+      internalID: -94712536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbdfb3d27df4334598e7d78052bcb72
+      internalID: -1719230733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43643d882dea40c4fa984d6214e0376b
+      internalID: -918606116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e73eb0de7ba284e99c6e2c45a18d08
+      internalID: -2132607744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5092c949e9e7d48a2afb86197d44e2
+      internalID: -1376207819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530becaadd406b544b45b26bb30700dc
+      internalID: -270753133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a71b05313004146ab48ec84aff7e13
+      internalID: -1836901150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e16ea3b44cc6c4fa463d57497d2850
+      internalID: 1973913175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ff77a82df68044a55cfc704f92564
+      internalID: 1962563474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450e45a8fffe844580d2d14591b6818
+      internalID: 2107957863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d40186d0a8c641a6833fedd61dae3
+      internalID: 796667436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaee6d0fe60e7d4c8bac8cb8c924d0b
+      internalID: 285046436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48502e631d38d74c9d1323f10df0e55
+      internalID: 900542220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa221a6144095194297aa5978391f90b
+      internalID: -17428883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2963bfed1a3774140b3b5f7265165a5a
+      internalID: -671613019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4f83e5bf27ab84c9869db18808811b
+      internalID: 553745324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad04a58f1090604cb262db54b3d0d78
+      internalID: 1754900821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cfc8b0c1da37d47a7f430bce8208e2
+      internalID: -452495612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6ca9a613672c4797a3ef4ce380cc4
+      internalID: 1809041287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3af95943399438409787dd87f0e157f
+      internalID: 784034941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc5fbb1d75b235419e448d3a86a3afe
+      internalID: -2143664680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e210e5b3c0b246344a4d9f5110af9bfd
+      internalID: -154562625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44039f46cb44d924ab98be68fba44355
+      internalID: -373777707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9362c25a59b23e947afe4bbd83fd4b61
+      internalID: -1040086253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a29a9875d049f4ca1c8ac40d4f2dc3
+      internalID: 1052799722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbaa6cf3e0fb664ea6d27953715e222
+      internalID: 238192316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fae704ee3557a488eaae0b519fd939
+      internalID: -686957998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268762b0847125c40be515d776c3c911
+      internalID: 986158613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf1eb718b4a11040b8048e72dafe84a
+      internalID: -289784520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6497d300f9243154899186ecd8bbc314
+      internalID: -1655053812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dfdd9af65c2e440959bb6e51803b06
+      internalID: -1782543517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba04ad229b9288459131a1429d771cf
+      internalID: 962105814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba594a262381f346bb575f84edfd8ab
+      internalID: 10629157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714651bac7aad9a418be066398d223e5
+      internalID: -1885987221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a871a25229a640b1e29d32be70c4e
+      internalID: -197463529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16fe606e3d1c44499fcfc69698603d0
+      internalID: 391781260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63448318e0b29b64282f383a58a64c60
+      internalID: 1744501839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f64385b5a938f498d6ffe2395d3851
+      internalID: 305685608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1751ba4a6d6be8249b058b3f96946784
+      internalID: 471594167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_69
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f842f14c9eb6745ba9cb7e9a315a77
+      internalID: -208133168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd670d60adc814458196efc2e1d426b
+      internalID: -958186578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39ab477654faec4f9415acda5a3e975
+      internalID: -780449933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ec85a24f76e940bebc6fd7ce617b9
+      internalID: -1430167225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645116d4ee0670e4cad19dd476592034
+      internalID: -1912680261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc7913172cf6d045aae5179f381f602
+      internalID: 1870764690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_75
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529f32055d0feeb44926e3dcfb5a56c2
+      internalID: 214726223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357cbae801cf2ec45b70761f0951dad1
+      internalID: 1982431078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0c34f56f5234e4ab8c8a8d85163315
+      internalID: 1630057958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f554b4f9d70eb6d478c6777fa65936e6
+      internalID: -792802697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a0751e1cba3948901b36a89c40b6e
+      internalID: -186464733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94c2db807261e4582a95f650f5d763
+      internalID: -787752849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_81
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2586c46e133d53843850730d7cf3e11f
+      internalID: 40937835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_82
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79793f8a8afd84440aaca84602563279
+      internalID: 810551675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_83
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3431caca6004694ba6837084caed213
+      internalID: -1758105265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c312edd3de6b034395bfa099169b6ca
+      internalID: 1955677394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a32b09e2de0834b9dcf5408d357c96
+      internalID: -891917851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfff9c7da56f2040a8c9c5e57d1fdc7
+      internalID: -1435846465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd32c832f8b78b4e8425b2f4d75aa78
+      internalID: -1632057571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04cccc4150890e49831b43e15b89bcc
+      internalID: 1440732812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_89
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574cf0e79a71ea04387a01b9d29e2d08
+      internalID: -1570530158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c61947079475942bbc7e28d9a2f841
+      internalID: -591866226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff4fe0981d155f4d97b61878368462b
+      internalID: -916395739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bd420096c6ff449b8eb40ad55ac0f4
+      internalID: -2053658777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e2a39f3054e4419857d0bdd993a13
+      internalID: -724195359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6695051068f583b44910b657c0d2f84e
+      internalID: -1419156128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigameCutScene (1) (1)_95
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787728b0f212b8646b4cc11ffff538d0
+      internalID: 1969060053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MinigameCutScene (1) (1)_91: -916395739
+      MinigameCutScene (1) (1)_49: 784034941
+      MinigameCutScene (1) (1)_46: 1754900821
+      MinigameCutScene (1) (1)_32: -918606116
+      MinigameCutScene (1) (1)_53: -1040086253
+      MinigameCutScene (1) (1)_48: 1809041287
+      MinigameCutScene (1) (1)_65: 391781260
+      MinigameCutScene (1) (1)_28: -892492841
+      MinigameCutScene (1) (1)_12: -1271590592
+      MinigameCutScene (1) (1)_81: 40937835
+      MinigameCutScene (1) (1)_47: -452495612
+      MinigameCutScene (1) (1)_21: -1915921785
+      MinigameCutScene (1) (1)_26: 478588779
+      MinigameCutScene (1) (1)_5: 2079421221
+      MinigameCutScene (1) (1)_13: -515104333
+      MinigameCutScene (1) (1)_27: -61198321
+      MinigameCutScene (1) (1)_63: -1885987221
+      MinigameCutScene (1) (1)_36: -1836901150
+      MinigameCutScene (1) (1)_79: -186464733
+      MinigameCutScene (1) (1)_69: -208133168
+      MinigameCutScene (1) (1)_41: 285046436
+      MinigameCutScene (1) (1)_78: -792802697
+      MinigameCutScene (1) (1)_76: 1982431078
+      MinigameCutScene (1) (1)_75: 214726223
+      MinigameCutScene (1) (1)_39: 2107957863
+      MinigameCutScene (1) (1)_9: 1678763413
+      MinigameCutScene (1) (1)_10: 1854604364
+      MinigameCutScene (1) (1)_38: 1962563474
+      MinigameCutScene (1) (1)_11: -156178564
+      MinigameCutScene (1) (1)_70: -958186578
+      MinigameCutScene (1) (1)_37: 1973913175
+      MinigameCutScene (1) (1)_35: -270753133
+      MinigameCutScene (1) (1)_8: 868158781
+      MinigameCutScene (1) (1)_7: -1806283794
+      MinigameCutScene (1) (1)_18: 1636701509
+      MinigameCutScene (1) (1)_30: -94712536
+      MinigameCutScene (1) (1)_90: -591866226
+      MinigameCutScene (1) (1)_3: 482984831
+      MinigameCutScene (1) (1)_56: -686957998
+      MinigameCutScene (1) (1)_68: 471594167
+      MinigameCutScene (1) (1)_73: -1912680261
+      MinigameCutScene (1) (1)_31: -1719230733
+      MinigameCutScene (1) (1)_55: 238192316
+      MinigameCutScene (1) (1)_89: -1570530158
+      MinigameCutScene (1) (1)_54: 1052799722
+      MinigameCutScene (1) (1)_92: -2053658777
+      MinigameCutScene (1) (1)_50: -2143664680
+      MinigameCutScene (1) (1)_40: 796667436
+      MinigameCutScene (1) (1)_84: 1955677394
+      MinigameCutScene (1) (1)_95: 1969060053
+      MinigameCutScene (1) (1)_80: -787752849
+      MinigameCutScene (1) (1)_85: -891917851
+      MinigameCutScene (1) (1)_19: -865470538
+      MinigameCutScene (1) (1)_87: -1632057571
+      MinigameCutScene (1) (1)_61: 962105814
+      MinigameCutScene (1) (1)_15: -2128982083
+      MinigameCutScene (1) (1)_23: -87908528
+      MinigameCutScene (1) (1)_4: 795029919
+      MinigameCutScene (1) (1)_86: -1435846465
+      MinigameCutScene (1) (1)_57: 986158613
+      MinigameCutScene (1) (1)_67: 305685608
+      MinigameCutScene (1) (1)_25: 1946924721
+      MinigameCutScene (1) (1)_83: -1758105265
+      MinigameCutScene (1) (1)_6: 1973037828
+      MinigameCutScene (1) (1)_51: -154562625
+      MinigameCutScene (1) (1)_14: 228920364
+      MinigameCutScene (1) (1)_44: -671613019
+      MinigameCutScene (1) (1)_71: -780449933
+      MinigameCutScene (1) (1)_42: 900542220
+      MinigameCutScene (1) (1)_34: -1376207819
+      MinigameCutScene (1) (1)_16: -788671687
+      MinigameCutScene (1) (1)_43: -17428883
+      MinigameCutScene (1) (1)_1: -863838482
+      MinigameCutScene (1) (1)_45: 553745324
+      MinigameCutScene (1) (1)_59: -1655053812
+      MinigameCutScene (1) (1)_62: 10629157
+      MinigameCutScene (1) (1)_29: -721380028
+      MinigameCutScene (1) (1)_82: 810551675
+      MinigameCutScene (1) (1)_52: -373777707
+      MinigameCutScene (1) (1)_2: 1555488381
+      MinigameCutScene (1) (1)_24: -1621286033
+      MinigameCutScene (1) (1)_64: -197463529
+      MinigameCutScene (1) (1)_77: 1630057958
+      MinigameCutScene (1) (1)_20: -1753527347
+      MinigameCutScene (1) (1)_94: -1419156128
+      MinigameCutScene (1) (1)_74: 1870764690
+      MinigameCutScene (1) (1)_22: -751816745
+      MinigameCutScene (1) (1)_58: -289784520
+      MinigameCutScene (1) (1)_88: 1440732812
+      MinigameCutScene (1) (1)_93: -724195359
+      MinigameCutScene (1) (1)_17: -1512785624
+      MinigameCutScene (1) (1)_33: -2132607744
+      MinigameCutScene (1) (1)_0: -510215562
+      MinigameCutScene (1) (1)_72: -1430167225
+      MinigameCutScene (1) (1)_60: -1782543517
+      MinigameCutScene (1) (1)_66: 1744501839
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

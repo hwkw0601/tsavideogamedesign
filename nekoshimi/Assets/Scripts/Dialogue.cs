@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using Photon.Pun;
+using Photon.Realtime;
 using UnityEngine.SceneManagement;
 
 public class Dialogue : MonoBehaviour
@@ -12,8 +14,12 @@ public class Dialogue : MonoBehaviour
     public float typingSpeed;
 
     public GameObject continueButton;
+    public Animation anim;
+
+     public float speed = 2.0f;
 
     void Start(){
+        anim = GetComponent<Animation>();
         continueButton.SetActive(false);
         StartCoroutine(Type());
     }
@@ -42,9 +48,11 @@ public class Dialogue : MonoBehaviour
         } else{
             textDisplay.text = "";
             continueButton.SetActive(false);
-            SceneManager.LoadScene("Round1");
+            PhotonNetwork.LoadLevel("Round1");
         }
     }
+
+ 
 }
 
 
